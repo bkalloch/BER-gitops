@@ -46,3 +46,6 @@ team_settings:
       policy_ids:
         - 347
 software:
+  packages:
+  - path: ../lib/windows/software/engineering.yml
+    self_service: false
