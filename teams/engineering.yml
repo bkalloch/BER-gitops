@@ -43,6 +43,6 @@ team_settings:
       enable_failing_policies_webhook: true
       destination_url: https://webhook.site/de2f866e-4631-4292-ab03-89d37504b5a1
       host_batch_size: 0
-      policies_id:
+      policy_ids:
         - 347
 software:
